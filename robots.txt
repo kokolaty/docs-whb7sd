@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-rbz3yy.indocuan-win.sbs/sitemap.xml
